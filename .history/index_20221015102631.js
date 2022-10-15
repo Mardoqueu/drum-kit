@@ -34,8 +34,8 @@ for(var i = 0; i < numberOfDrumButtons; i++){
                 crash.play(); 
                 break;
             case "l":
-                var kick = new Audio('sounds/kick-bass.mp3');
-                kick.play(); 
+                var audio = new Audio('sounds/kick-bass.mp3');
+                audio.play(); 
                 break;
             default:
                 break;

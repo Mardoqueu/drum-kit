@@ -30,12 +30,12 @@ for(var i = 0; i < numberOfDrumButtons; i++){
                 snare.play(); 
                 break;
             case "k":
-                var crash = new Audio('sounds/crash.mp3');
-                crash.play(); 
+                var audio = new Audio('sounds/crash.mp3');
+                audio.play(); 
                 break;
             case "l":
-                var kick = new Audio('sounds/kick-bass.mp3');
-                kick.play(); 
+                var audio = new Audio('sounds/kick-bass.mp3');
+                audio.play(); 
                 break;
             default:
                 break;
