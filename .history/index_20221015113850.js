@@ -13,7 +13,7 @@ for(var i = 0; i < numberOfDrumButtons; i++){
     });
 }
 
-//Detecting keyboard press
+//Detecting keybo
 
 document.addEventListener("keydown", function(){
     

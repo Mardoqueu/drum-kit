@@ -13,8 +13,6 @@ for(var i = 0; i < numberOfDrumButtons; i++){
     });
 }
 
-//Detecting keyboard press
-
 document.addEventListener("keydown", function(){
     
     makeSound(event.key);
