@@ -1,9 +1,25 @@
-# [Drum-kit](https://drum-kit-sand.vercel.app/)
+<h1 align="center">Welcome to Drum-Kit-Starting-Files 👋</h1>
+<p>
+  <a href="https://twitter.com/SousaMardoqueu" target="_blank">
+    <img alt="Twitter: SousaMardoqueu" src="https://img.shields.io/twitter/follow/SousaMardoqueu.svg?style=social" />
+  </a>
+</p>
 
--HTML
+> Drum kit is a collection of drums, cymbals, and other auxiliary percussion instruments set up to be played with HTML, CSS and Javascript
 
--CSS
+### ✨ [Demo](https://drum-kit-sand.vercel.app/)
 
--JavaScript
+## Author
 
-![image](https://user-images.githubusercontent.com/11077068/196055726-c5afb11a-0418-4dc6-8b33-9afeecfdfedf.png)
+👤 **Mardoqueu**
+
+* Twitter: [@SousaMardoqueu](https://twitter.com/SousaMardoqueu)
+* Github: [@mardoqueu](https://github.com/mardoqueu)
+* LinkedIn: [@mardoqueu-sousa](https://linkedin.com/in/mardoqueu-sousa)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
